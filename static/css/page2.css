@@ -1,0 +1,11 @@
+.head{
+    position: fixed;
+    top:0;
+    width:100%;
+    background-color: slategrey;
+}
+.nav{
+    position: relative;
+    width:100%;
+    background-color: black;
+}
